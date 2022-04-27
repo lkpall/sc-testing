@@ -1,15 +1,7 @@
 {
-    "name": {
-      "string": [
-        "Thor",
-        "Loki"
-      ]
-    },
-    "code": {
-        "int": [
-          100,
-          200,
-          300
-        ]
-      }
+    "User": {
+        "title": {
+            "string":{"name": "Matheus"}
+        }
+    }
 }
